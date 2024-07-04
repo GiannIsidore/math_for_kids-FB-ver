@@ -27,7 +27,7 @@ class OperationScreen extends StatelessWidget {
         break;
       case OperationType.Division:
         title = "assets/divT.png";
-        colorss = Color.fromARGB(255, 233, 65, 116);
+        colorss = Color.fromARGB(255, 233, 66, 116);
         break;
     }
 
